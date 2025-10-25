@@ -1,5 +1,5 @@
-#Ankit Jana
-#MEB25058 
+# Ankit Jana
+# MEB25058 
 
 ## Lab_1
 1. helloworld.c

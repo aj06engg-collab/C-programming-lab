@@ -3,7 +3,7 @@
 int main (void) {
   //taking mass as input
 float mass = 0.0;
-printf("Mass*(kg): ");
+printf("Mass(kg): ");
 scanf("%f", &mass);
 
 //taking acceleration as input
